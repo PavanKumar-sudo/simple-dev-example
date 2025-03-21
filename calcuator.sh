@@ -25,5 +25,5 @@ case $ch in
 4)res=`echo "scale=2; $a / $b" | bc`
 ;;
 esac
-echo "Result : $res"
+echo "Result of : $res"
 
